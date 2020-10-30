@@ -7,7 +7,7 @@ This library provides the following event-based concepts:
 
 1. EventEmitter.
 2. Promises.
-3. An event loop.
+3. An event loop. 
 4. Co-routines.
 
 Full documentation can be found on [the website][1].
